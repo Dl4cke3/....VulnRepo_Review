@@ -40,6 +40,13 @@ admin view
 alert
 [![](./img/4.png)](./img/4.png)
 
+admin cookie
+```
+<button onclick="alert(document.cookie)">
+	Cookie
+</button>
+```
+![image](https://github.com/user-attachments/assets/c6945cf6-c7f3-43d8-b897-a204a28cdf72)
 
 
 
